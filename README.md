@@ -37,6 +37,6 @@ Cursor · ChatGPT
 
 ## 🤝 Let's Connect
 
-💼 [LinkedIn] https://www.linkedin.com/in/anshika-chaurasiya-24521a195/
+💼 LinkedIn: https://www.linkedin.com/in/anshika-chaurasiya-24521a195/
 
-📧 [Email] ashu782001@gmail.com
+📧 Email: ashu782001@gmail.com
