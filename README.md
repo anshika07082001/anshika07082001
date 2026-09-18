@@ -27,17 +27,6 @@ React Router · Material UI · Ant Design · Bootstrap · SCSS · Tailwind CSS
 Git · GitHub · REST APIs · Axios · React Hook Form · Figma · VS Code ·
 Cursor · ChatGPT
 
-## 🚀 Featured Projects
-
-- 🎯 **AI Interview Preparation Platform**  
-  A platform designed to help developers prepare for technical interviews.
-
-- 🛒 **Shopify / E-commerce Interfaces**  
-  Responsive interfaces and admin features for e-commerce applications.
-
-- 📊 **React Admin Dashboard**  
-  Interactive dashboards with reusable components, forms, tables and API integrations.
-
 ## 🌱 Currently Learning
 
 - Advanced React.js
